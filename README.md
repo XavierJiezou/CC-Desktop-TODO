@@ -2,6 +2,10 @@
 
 极简的 Windows 桌面 TODO 应用 —— 像便利贴一样置顶悬浮在桌面上。基于 Electron。
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="CC-Desktop-TODO 界面预览" width="320" />
+</p>
+
 ## 功能
 
 - ✅ 增删改 + 勾选完成（双击任务文字可编辑）
