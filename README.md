@@ -3,9 +3,7 @@
 极简的 Windows 桌面 TODO 应用 —— 像便利贴一样置顶悬浮在桌面上。
 原生 C# / WinForms 实现，**程序本体仅 18 KB，安装包仅 82 KB**，无需任何运行时下载。
 
-<p align="center">
-  <img src="assets/demo.png" alt="CC-Desktop-TODO 界面预览" width="320" />
-</p>
+<img width="399" height="524" alt="image" src="https://github.com/user-attachments/assets/3c5dc66e-edf4-4a8c-83ab-247a440bbb9c" />
 
 ## 功能
 
